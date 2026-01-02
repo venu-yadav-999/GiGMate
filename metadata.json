@@ -1,0 +1,11 @@
+
+{
+  "name": "GigMate - The Smart Gig Companion",
+  "description": "Enterprise-grade utility for Indian gig workers. Features: Multi-platform earnings sync, On-device ML demand forecasting, 44ADA tax advisory, and secure document vaulting.",
+  "version": "1.0.0-beta",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
